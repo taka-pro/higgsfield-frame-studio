@@ -5,6 +5,14 @@
 
 **アプリの利用に月額料金はありませんが、動画生成には利用者自身のHiggsfield APIキーとAPI残高が必要です。生成ごとにAPI利用料が発生します。** HiggsfieldのWebサービス用プランとは別のAPI用残高を使います。具体的な料金・割引・条件は公式サイトで確認してください。
 
+## まずは解説動画をご覧ください
+
+**[▶ キャラが動く、しゃべる！Higgsfield APIで動画生成アプリを作ってみた](https://youtu.be/vEyjhweLmv0)**
+
+[![Frame Studioの解説動画を見る](https://i.ytimg.com/vi/vEyjhweLmv0/hqdefault.jpg)](https://youtu.be/vEyjhweLmv0)
+
+**画像をクリックするとYouTubeで解説動画が開きます。** 実際の生成例を見ながら、APIの仕組み、APIキーの発行・設定、キャラクターや背景の追加、セリフ・音楽のアレンジまで紹介しています。初めて使う方は、動画を見ながら設定を進めてみてください。
+
 ## ダウンロードして使う
 
 **[Windows版をダウンロード（Releases）](https://github.com/taka-pro/higgsfield-frame-studio/releases)** · [ソースコード](https://github.com/taka-pro/higgsfield-frame-studio)
@@ -28,11 +36,6 @@
 - 内蔵プレビューにはWindowsのメディア機能が必要です。
 - 署名なしの試用版です。Windowsの保護機能が警告を表示する場合があります。入手元を確認し、組織の端末制限には従ってください。
 - ZIP内から直接起動したり、exeだけを取り出したりせず、フォルダ全体を展開してください。
-
-## 紹介動画
-
-YouTube解説動画：公開後にこの欄へリンクを追加予定です。
-<!-- YOUTUBE_URL: 動画公開後に上の一文をリンクへ置き換えてください。 -->
 
 ## できること
 
